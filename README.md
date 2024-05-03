@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Efeh4n
 - 👀 I’m interested in Data Science, Machine Learning, AI , Statistics, Finance, Stocks Market, Stocks trading(day trading)
-- 🌱 I’m currently learning AI, MAchine leaning
+- 🌱 I’m currently learning AI, Machine learning
 - 📫 How to reach me   email : efehanh0@gmail.com
 
 
