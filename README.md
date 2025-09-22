@@ -13,6 +13,10 @@
   <a href="https://www.linkedin.com/in/efehan-husrevoglu-b78306245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-efehan--husrevoglu-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+    <a href="https://medium.com/@efehanh0" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%40efehanh0-12100E?style=flat&logo=medium&logoColor=white" alt="medium" />
+  </a>
+
 </p>
 
 
